@@ -2,7 +2,7 @@
 
 # Final Capstone Project - Modul 1
 
-## 📦 Sistem Manajemen Inventaris Barang
+## 📦 Sistem Manajemen Inventaris Barang & Pembelian Sederhana
 
 Proyek ini merupakan bagian dari tugas akhir *Capstone Modul 1*. Aplikasi berbasis terminal ini dirancang untuk mengelola data stok barang dan transaksi sederhana pada toko, seperti menambahkan barang baru, memperbarui stok, mencatat transaksi pembelian oleh pelanggan, dan menghapus data barang.
 

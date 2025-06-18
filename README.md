@@ -31,15 +31,21 @@ Proyek ini merupakan bagian dari tugas akhir *Capstone Modul 1*. Aplikasi berbas
    - Sistem akan memeriksa ketersediaan stok
    - Stok dikurangi jika transaksi berhasil
    - Menampilkan total pembayaran
+     
+7. **Laporan Penjualan**  
+   Menampilkan rekap transaksi penjualan yang telah terjadi:
+   - Menunjukkan daftar transaksi pembelian
+   - Total barang terjual dan nilai transaksi
+   - Dapat digunakan sebagai laporan bulanan atau harian (opsional)
 
-7. **Keluar Program**  
+8. **Keluar Program**  
    Mengakhiri program secara bersih.
 
 ---
 
 ## 🧰 Tools & Teknologi
 
-- Bahasa: `Python 3.x`
+- Bahasa: `Python 3.13.3`
 - Modul: `tabulate`, `os`
 - Platform: CLI (Command Line Interface)
 
